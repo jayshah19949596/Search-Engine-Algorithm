@@ -1,7 +1,3 @@
-# Modify the crawl_web procedure so that instead of just returning the
-# index, it returns an index and a graph. The graph should be a
-# Dictionary where the key:value entries are:
-
 #  url: [list of pages url links to]
 
 
