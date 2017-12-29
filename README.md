@@ -1,4 +1,4 @@
-## Search_Engine_Algorithm
+## Search-Engine-With-Page-Rank-Algorithm
  * This is a simple Seacrh Engine Algortihm program 
  * The code is self explainatory
  * Data structure used to store the pages is a hashmap where url of the page is the key and it's html content is the value
